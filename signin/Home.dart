@@ -34,7 +34,7 @@ class _HomePageScreenState extends State<HomePageScreen> {
   final List<Widget> _pages = [
    const SettingsPage(),
    const MyHomePage(),
-  VolunteerList(), // سوي امبورت لصفحتك و حطي حقك هنا
+  VolunteerList(), 
   ];
 
   void _onItemTapped(int index) {
@@ -237,7 +237,7 @@ leading: const Icon(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -259,7 +259,7 @@ leading: const Icon(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -281,7 +281,7 @@ leading: const Icon(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -303,7 +303,7 @@ leading: const Icon(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -325,7 +325,7 @@ leading: const Icon(
 Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -347,7 +347,7 @@ Navigator.push(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -368,7 +368,7 @@ Navigator.push(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -390,7 +390,7 @@ Navigator.push(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -412,7 +412,7 @@ Navigator.push(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -434,7 +434,7 @@ Card(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -456,7 +456,7 @@ Card(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
@@ -478,7 +478,7 @@ Card(
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Detail(1), // حطي صفحة الربط هنا
+                          builder: (context) => Detail(1), 
                         ));
                   },
                 ),
