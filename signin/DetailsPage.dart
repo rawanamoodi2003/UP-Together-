@@ -306,7 +306,7 @@ Column(
                           }).toList(),
                           onChanged: (value) {
                             setState(() {
-                              selectedAge = value; // تحديث العمر
+                              selectedAge = value; 
                             });
                           },
                         ),
@@ -338,7 +338,7 @@ borderRadius: BorderRadius.circular(20),
                           ],
                           onChanged: (value) {
                             setState(() {
-                              selectedPeriod = value; // تحديث الفترة
+                              selectedPeriod = value; 
                             });
                           },
                         ),
